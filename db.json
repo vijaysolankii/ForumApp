@@ -1,0 +1,18 @@
+{
+  "blogs": [
+    {
+      "title": "lorem ipsum",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "forum_img": "http://res.cloudinary.com/dzdjfl1at/image/upload/v1664110762/wao77q63wbnhga3sxrkp.png",
+      "date": "25/09/2022",
+      "id": 1
+    },
+    {
+      "title": "Welcome to the Interview Ready",
+      "description": "Want to learn system design \ndo you know how to design that stuck check some hints still stuck watch our comprehensive video explanation from gaurav sen\n\ncheckout interviewready.com",
+      "forum_img": "http://res.cloudinary.com/dzdjfl1at/image/upload/v1664115932/kefb9qo8ddal56cbsmc8.webp",
+      "date": "25/09/2022 | 19:55",
+      "id": 2
+    }
+  ]
+}
